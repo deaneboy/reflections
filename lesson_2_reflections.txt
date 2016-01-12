@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+  When you initialise a repository, it creates a .git directory and setups git to use.  You need to do this so you can use git locally to start to store and version control files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+  The staging area offers you a space to hold files, and to review before you commit them to the Git repository.
