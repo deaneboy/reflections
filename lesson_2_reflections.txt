@@ -3,3 +3,9 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
   The staging area offers you a space to hold files, and to review before you commit them to the Git repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+  You can use the staging area to make sure you have one commit per logical change by adding one file to the staging area and then commit this, then adding another file to the staging area, and then commiting this.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+  Branches would be helpful if working on one file solely to get something working, that way the ,aster branch will only be updated when the files are correct.
