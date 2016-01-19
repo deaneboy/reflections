@@ -9,3 +9,13 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
   Branches would be helpful if working on one file solely to get something working, that way the ,aster branch will only be updated when the files are correct.
+
+How do the diagrams help you visualize the branch structure?
+  Diagrams help you visualise the branch structure, by drawing out the commit logs.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+  The result of merging two branches together, is to get one branch with the latest versions of the code in it. We show it in the diagaram as having two parents, as we have merged two branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+  Pros - Speedier and more efficent
+  Cons - May merge stuff not needed
